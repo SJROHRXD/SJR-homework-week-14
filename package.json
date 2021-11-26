@@ -1,0 +1,27 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "MVC Tech Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SJROHRXD/SJR-homework-week-14.git"
+  },
+  "keywords": [
+    "MVC",
+    "ORM",
+    "sequelize",
+    "Heroku",
+    "handlebars",
+    "express"
+  ],
+  "author": "SJROHRXD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SJROHRXD/SJR-homework-week-14/issues"
+  },
+  "homepage": "https://github.com/SJROHRXD/SJR-homework-week-14#readme"
+}
