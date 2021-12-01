@@ -1,0 +1,17 @@
+[
+    {
+      "user_name": "Snooky",
+      "email": "snooky@hotmail.com",
+      "pwd": "pwd12345"
+    },
+    {
+      "user_name": "DJ Pauly D",
+      "email": "paulyd@gmail.com",
+      "pwd": "pwd12345"
+    },
+    {
+      "user_name": "The Situation",
+      "email": "thesituation@aol.com",
+      "pwd": "pwd12345"
+    }
+  ]
